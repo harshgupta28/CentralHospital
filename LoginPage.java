@@ -1,4 +1,4 @@
-//SpringCore
+//SpringCoreJava
 // class name - LoginPage
 package centralHospital;
 
