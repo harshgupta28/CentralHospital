@@ -1,4 +1,4 @@
-//SpringFramework
+//SpringFrameworkJava
 // class name - Interface1
 package centralHospital;
 
